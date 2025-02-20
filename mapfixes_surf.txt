@@ -11,6 +11,7 @@ tested, pending upload & wipe:
 
 submitted fixes (wipe times):
 
+81661374120041 - Moist - Fixed faste oob and added a small hitbox for some ramps. Wipe faste times - SYR0XB
 uploaded fixes, ready for manual time deletion:
 98225260067088 - Ancient - Fixed standing on start zone outside of the map. Wipe faste times faster than 1 minute and fly trials.
 110065543359147 - Quantum - Fixed going out of the map through Bonus. Wipe faste times faster than 20s and fly trials.
@@ -38,12 +39,17 @@ uploaded fixes, ready for manual time deletion:
 15469812686 - Airspace - fixed oob and starting on antitele on main and bonuses and fixed ramps changed endzone on b2. - delete oob times on main, b1, and b3
 
 submitted fixes (manual time deletion, list times needing deletion):
+
+86793596489662 - Yes - Fixed faste oob, added clips and triggers for b1 and fixed a Trigger3 on Spawn2. Wipe Faste main + bonus times, wipe auto [#1-95], hsw [all times], sw [all times], ao [all times] - SYR0XB
+126248480371185 - Blossom Heaven -  Fixed faste oob and added triggers around the circles. Wipe faste times [#1-21 (21 is included)] - SYR0XB
 4726757120 - PEKO - fixed misaligned SpawnAt & patched faste oob. delete top 25 faste.
 1738 - already fixed, needs top 22 auto, sw, hsw wr, ao, top 53 faste needs deleting. 
 118539912724321 - Ire - ramp fix, spine fix, & oob patch
 121170303581252 - Venust - changed cc false parts and covered end with clips 
 
 submitted fixes (no wipe):
+
+128045361358998 - Jungle - Fixed a Part to Trigger1. - SYR0XB
 5239078742 - One Day - fixed bumpy ramp and buggy unions coming in and out of existence - copylocked
 
 add map data:
